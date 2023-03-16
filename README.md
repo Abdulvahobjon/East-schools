@@ -1,3 +1,6 @@
+fiver dan olingan East-schools loyihasi. lending peach website . tailiwndcss va reactjs texnologilalaridan foydalanib tayorlanadi va toliq resposive website.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
